@@ -3,7 +3,7 @@
 The Project Goal is to analyze the histouical stock price data to understand monthly price trends.
 # Dataset source
 This data set came from Kaggle and the name  of the data set is Sample Sock Price Data, Author Tehmina Raja
-#Steps Taken
+# Steps Taken
 1. Downloaded the .csv from kaggle
 2. Uploaded the stock price data to BigQuery
 3. Cleaned the data using SQL (by removing the missing vlaues, and convertting data types)
